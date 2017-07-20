@@ -1,0 +1,1 @@
+﻿INSERT INTO trade_units(unit_id,unit_num,m_unit_num,bank,stock_fee,fund_fee,block_fee,lessor,unit_status,create_date) VALUES (1, "002324","312425","招商银行",0.032,0.012,0.0,"海通证券","已租",'2017-07-17 16:26:00');
